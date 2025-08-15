@@ -29,7 +29,7 @@ HUGGINGFACEHUB_API_TOKEN=your_second_api_here
 
 ---
 
-## ▶️ Run the App
+## Run the App
 
 ```bash
 streamlit run app.py

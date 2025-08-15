@@ -9,8 +9,8 @@ The AI retrieves the most relevant chunks and answers with a reference to the or
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/kiwan8/rag_pdf
+cd rag_pdf
 
 # (Optional) Create a virtual environment
 python -m venv venv
